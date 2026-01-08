@@ -1,5 +1,5 @@
-﻿using Tyuiu.PyrkinAA.Sprint6.Task6.V12.Lib;
-namespace Tyuiu.PyrkinAA.Sprint6.Task6.V12
+﻿using Tyuiu.PyrkinAA.Sprint4.Task6.V12.Lib;
+namespace Tyuiu.PyrkinAA.Sprint4.Task6.V12
 {
     class Program
     {
