@@ -18,9 +18,9 @@ namespace Tyuiu.PyrkinAA.Sprint4.Task7.V15
             int index = 0;
 
             Console.WriteLine("\nМассив:");
-            for(int i=0; i<rows; i++)
+            for (int i = 0; i < rows; i++)
             {
-                for(int j=0; j < columns; j++) 
+                for (int j = 0; j < columns; j++)
                 {
                     Console.WriteLine($"{str[index]} \t");
                     index++;

@@ -11,13 +11,13 @@ namespace Tyuiu.PyrkinAA.Sprint4.Task7.V15.Lib
             {
                 for (int j = 0; j < m; j++)
                 {
-                    mtrx[i,j] = int.Parse(value.Substring(i * m + j, 1));
+                    mtrx[i, j] = int.Parse(value.Substring(i * m + j, 1));
                 }
             }
             int count = 0;
-            for(int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
-                for(int j = 0;j < m; j++)
+                for (int j = 0; j < m; j++)
                 {
                     if (mtrx[i, j] % 2 != 0)
                     {
